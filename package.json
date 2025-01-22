@@ -17,6 +17,9 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.9.3"
+    "mongoose": "^8.9.3",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "yahoo-finance": "^0.3.8"
   }
 }
