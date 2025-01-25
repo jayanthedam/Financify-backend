@@ -1,4 +1,4 @@
-import CryptoPrice from '../models/CryptoPriceModel.js';
+import CryptoPrice from '../models/cryptoPriceModel.js';
 import Asset from '../models/AssetModel.js';
 
 const fetchCryptoPrices = async (req, res) => {
